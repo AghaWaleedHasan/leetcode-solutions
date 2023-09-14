@@ -1,1 +1,1 @@
-Completely originally thought out solutions to leetcode problems that I got right without prior knwoledge of the common algorithms used to solve these kinds of questions. May have taken more than a day to do.
+
